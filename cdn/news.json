@@ -1,0 +1,24 @@
+[
+  {
+    "id": 3,
+    "title": "Play test terminé",
+    "date": "2026-05-14",
+    "category": "event",
+    "content": "Le play test du serveur 46 Anarchy s'est déroulé les 13 et 14 mai 2026. Merci à tous les participants ! L'ouverture officielle approche."
+  },
+  {
+    "id": 2,
+    "title": "Play test — 13 et 14 mai",
+    "date": "2026-05-13",
+    "category": "event",
+    "content": "Le play test du serveur 46 Anarchy commence aujourd'hui et se déroule jusqu'au 14 mai 2026. À vos picks !"
+  },
+  {
+    "id": 1,
+    "title": "Annonce officielle du serveur",
+    "date": "2026-05-09",
+    "category": "annonce",
+    "content": "Le serveur 46 Anarchy est officiellement annoncé ! L'ouverture est prévue pour la mi-juin / début juillet 2026. Découvrez le trailer et restez connectés pour la date exacte.",
+    "video": "https://www.youtube.com/watch?v=ypYQvIRtvs0"
+  }
+]
